@@ -1,2 +1,0 @@
-# Muse-cyber-lab
-Cybersecurity
